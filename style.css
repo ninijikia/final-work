@@ -82,6 +82,11 @@ li:hover{
   font-size: 30px;
 }
 
+p:hover{
+  color: red;
+
+}
+
 .section2_button:hover{
   border: 2px solid #D5906E;
   background-color: #D5906E;
