@@ -82,10 +82,21 @@ li:hover{
   font-size: 30px;
 }
 
-p:hover{
-  color: red;
+.bold:hover{
+  color: rgb(255, 0, 111);
 
 }
+
+.letter:hover{
+  color: rgb(255, 0, 191);
+
+}
+
+.header1:hover{
+color: aqua;
+}
+
+
 
 .section2_button:hover{
   border: 2px solid #D5906E;
